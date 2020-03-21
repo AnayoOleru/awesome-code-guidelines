@@ -15,7 +15,11 @@ As a Software Engineers, knowing the best way to code review is one of the most 
 This is my love to the community.
 
 If you like what you've read, don't hesitate to follow me on any or all of my social-media pages:
+
+
 ![alt text](http://i.imgur.com/tXSoThF.png) @AnayoOleru
+
+
 ![alt text](http://i.imgur.com/P3YfQoD.png) Anayo Oleru
 
 
