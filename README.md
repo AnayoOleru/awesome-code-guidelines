@@ -1,4 +1,4 @@
-# awesome-code-guidelines
+# :sunglasses: awesome-code-guidelines
 The purpose of this guide is to define some coding standards to help you ensure that the code you write are top notch and excellent. These guidelines can be applied for checkpoint assessments as well as regular day to day code reviews performed in your team.
 
 As a Software Engineers, knowing the best way to code review is one of the most important aspects of our job, another important part writing effective code and doing it right is instrumental to grooming the right type of engineers and writing effective code in general.
@@ -12,7 +12,7 @@ As a Software Engineers, knowing the best way to code review is one of the most 
 - [Coding Style Guides](./CODE_STYLE_GUIDELINES.md)
 
 
-This is my love to the community.
+My :heart: to the community.
 
 If you like what you've read, don't hesitate to follow me on any or all of my social-media pages:
 
